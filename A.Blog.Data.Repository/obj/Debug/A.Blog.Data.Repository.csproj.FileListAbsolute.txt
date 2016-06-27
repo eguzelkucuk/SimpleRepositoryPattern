@@ -1,0 +1,14 @@
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\obj\Debug\A.Blog.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.Repository.dll.config
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.Repository.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.Repository.pdb
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Entity.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.pdb
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\A.Blog.Entity.pdb
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\obj\Debug\A.Blog.Data.Repository.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data.Repository\obj\Debug\A.Blog.Data.Repository.pdb

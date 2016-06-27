@@ -1,0 +1,4 @@
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data\bin\Debug\A.Blog.Data.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data\bin\Debug\A.Blog.Data.pdb
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data\obj\Debug\A.Blog.Data.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Data\obj\Debug\A.Blog.Data.pdb

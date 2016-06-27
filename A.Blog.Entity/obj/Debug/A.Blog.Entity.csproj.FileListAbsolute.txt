@@ -1,0 +1,4 @@
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Entity\bin\Debug\A.Blog.Entity.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Entity\bin\Debug\A.Blog.Entity.pdb
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Entity\obj\Debug\A.Blog.Entity.dll
+C:\Users\erkanguzzelkucuk\Desktop\A.Blog.Data.Test\A.Blog.Entity\obj\Debug\A.Blog.Entity.pdb
